@@ -1,0 +1,1628 @@
+13:08:26:User deleted from analyte records calibration26122-04
+13:08:28:26122-04 deleted from the records
+13:10:10:Parameter for 1/1.87/0.187 has been updated
+13:10:10:Parameter for 1/1.87/0.187 has been updated
+13:10:22:Test for 1 was initiated
+13:10:28:Image captured
+13:10:28:TSH-demo analysed
+13:10:29:[15.52815714]
+13:10:31:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:10:31:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:08:45:Test for 1 was initiated
+13:08:52:Image captured
+13:08:52:TSH-demo analysed
+13:08:52:[15.45444277]
+13:08:54:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:08:54:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:08:55:Err 01: could not detect sample
+13:08:55:Not added because it had error
+13:08:56:Patient data report was not generated because no patientid
+13:09:03:Test result was overwritten
+13:09:07:Image captured
+13:09:07:TSH-demo analysed
+13:09:07:[15.4958684]
+13:09:08:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:09:08:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:09:10:Err 01: could not detect sample
+13:09:10:Not added because it had error
+13:09:10:Patient data report was not generated because no patientid
+13:12:38:Test for 1 was initiated
+13:12:49:Image captured
+13:12:49:TSH-demo analysed
+13:12:49:[15.52079562]
+13:12:51:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:12:51:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:12:54:Err 01: could not detect sample
+13:12:54:Not added because it had error
+13:12:54:Patient data report was not generated because no patientid
+13:14:31:Test for 1 was initiated
+13:14:36:Image captured
+13:14:36:TSH-demo analysed
+13:14:36:[15.79697162]
+13:14:38:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:14:38:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:14:39:Err 01: could not detect sample
+13:14:39:Not added because it had error
+13:14:40:Patient data report was not generated because no patientid
+13:16:58:Test for 1 was initiated
+13:17:05:Image captured
+13:17:05:TSH-demo analysed
+13:17:05:[16.18497475]
+13:17:07:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:17:07:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:17:09:Err 01: could not detect sample
+13:17:09:Not added because it had error
+13:17:09:Patient data report was not generated because no patientid
+13:18:16:Test for 1 was initiated
+13:18:22:Image captured
+13:18:22:Enter Analyte analysed
+13:18:22:[15.9844042]
+13:18:23:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:18:23:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:18:25:Err 01: could not detect sample
+13:18:25:Not added because it had error
+13:18:25:Patient data report was not generated because no patientid
+13:09:12:Test for 1 was initiated
+13:09:19:Image captured
+13:09:19:TSH-demo analysed
+13:09:20:[12.14794016 15.28535789 54.09187173]
+13:09:21:Test Value: 15.29 Control Value: 12.15 Raw Value: 1.26
+13:09:21:assay scanned. TL: 15.29 CL: 12.15 RV: 1.26
+13:09:21:Result added in database
+13:09:21:Patient data report was not generated because no patientid
+13:09:40:Test result was overwritten
+13:09:43:Image captured
+13:09:43:TSH-demo analysed
+13:09:44:[11.08207582 15.29560881 54.17097868]
+13:09:45:Test Value: 15.3 Control Value: 11.08 Raw Value: 1.38
+13:09:45:assay scanned. TL: 15.3 CL: 11.08 RV: 1.38
+13:09:45:Result added in database
+13:09:45:Patient data report was not generated because no patientid
+13:15:49:No patient data for sampleid 1
+13:15:53:Image captured
+13:15:53:TSH-demo analysed
+13:15:53:[]
+13:15:54:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:15:54:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:15:56:Err 01: could not detect sample
+13:15:56:Not added because it had error
+13:15:56:Patient data report was not generated because no patientid
+13:18:23:No patient data for sampleid 1
+13:18:26:Image captured
+13:18:26:TSH-demo analysed
+13:18:26:[7.16681412 8.69200774]
+13:18:28:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:18:28:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:18:30:Err 01: could not detect sample
+13:18:30:Not added because it had error
+13:18:31:Patient data report was not generated because no patientid
+13:19:51:No patient data for sampleid 1
+13:19:54:Image captured
+13:19:54:TSH-demo analysed
+13:19:55:[21.53963759 17.41496324 67.06502706]
+13:19:56:Test Value: 17.41 Control Value: 21.54 Raw Value: 0.81
+13:19:56:assay scanned. TL: 17.41 CL: 21.54 RV: 0.81
+13:19:56:Result added in database
+13:19:57:Patient data report was not generated because no patientid
+13:20:52:No patient data for sampleid 1
+13:20:52:No patient data for sampleid 1
+13:20:55:Image captured
+13:20:55:TSH-demo analysed
+13:20:56:[ 71.48478552  54.64732138   5.033342    10.25752444 135.61400196]
+13:20:58:Test Value: 54.65 Control Value: 71.48 Raw Value: 0.76
+13:20:58:assay scanned. TL: 54.65 CL: 71.48 RV: 0.76
+13:20:58:Result added in database
+13:20:58:Patient data report was not generated because no patientid
+13:21:13:Test result was overwritten
+13:21:16:Image captured
+13:21:16:TSH-demo analysed
+13:21:17:[ 75.34922529  53.38421117  12.39336029 130.69325584]
+13:21:18:Test Value: 53.38 Control Value: 75.35 Raw Value: 0.71
+13:21:18:assay scanned. TL: 53.38 CL: 75.35 RV: 0.71
+13:21:18:Result added in database
+13:21:18:Patient data report was not generated because no patientid
+13:22:40:No patient data for sampleid 1
+13:22:40:No patient data for sampleid 1
+13:22:40:No patient data for sampleid 1
+13:22:44:Image captured
+13:22:44:TSH-demo analysed
+13:22:44:[54.83269254  5.51658597 12.19487462]
+13:22:46:Test Value: 5.52 Control Value: 54.83 Raw Value: 0.1
+13:22:46:assay scanned. TL: 5.52 CL: 54.83 RV: 0.1
+13:22:46:Result added in database
+13:22:46:Patient data report was not generated because no patientid
+13:24:09:No patient data for sampleid 1
+13:24:09:No patient data for sampleid 1
+13:24:09:No patient data for sampleid 1
+13:24:09:No patient data for sampleid 1
+13:24:12:Image captured
+13:24:12:TSH-demo analysed
+13:24:13:[55.75813236 14.57788741]
+13:24:14:Test Value: 14.58 Control Value: 55.76 Raw Value: 0.26
+13:24:14:assay scanned. TL: 14.58 CL: 55.76 RV: 0.26
+13:24:14:Result added in database
+13:24:15:Patient data report was not generated because no patientid
+13:24:31:Test result was overwritten
+13:24:35:Image captured
+13:24:35:TSH-demo analysed
+13:24:35:[ 44.90639382 259.69849746  94.1106762 ]
+13:24:36:Test Value: 259.7 Control Value: 44.91 Raw Value: 5.78
+13:24:36:assay scanned. TL: 259.7 CL: 44.91 RV: 5.78
+13:24:36:Result added in database
+13:24:37:Patient data report was not generated because no patientid
+13:26:00:Parameter for 1/18.7/0.187 has been updated
+13:26:00:Parameter for 1/18.7/0.187 has been updated
+13:26:09:No patient data for sampleid 1
+13:26:09:No patient data for sampleid 1
+13:26:09:No patient data for sampleid 1
+13:26:09:No patient data for sampleid 1
+13:26:09:No patient data for sampleid 1
+13:26:13:Image captured
+13:26:13:CRP-demo analysed
+13:26:13:[46.1518485  13.14256842 27.42633223 12.97337774]
+13:26:14:Test Value: 13.14 Control Value: 46.15 Raw Value: 0.28
+13:26:14:assay scanned. TL: 13.14 CL: 46.15 RV: 0.28
+13:26:14:Result added in database
+13:26:15:Patient data report was not generated because no patientid
+13:26:20:Test result was overwritten
+13:26:23:Image captured
+13:26:23:CRP-demo analysed
+13:26:24:[ 50.2678729    5.44358852 257.39956899   6.48588774  93.09093529]
+13:26:25:Test Value: 5.44 Control Value: 50.27 Raw Value: 0.11
+13:26:25:assay scanned. TL: 5.44 CL: 50.27 RV: 0.11
+13:26:25:Result added in database
+13:26:25:Patient data report was not generated because no patientid
+13:27:46:No patient data for sampleid 1
+13:27:46:No patient data for sampleid 1
+13:27:46:No patient data for sampleid 1
+13:27:46:No patient data for sampleid 1
+13:27:46:No patient data for sampleid 1
+13:27:46:No patient data for sampleid 1
+13:27:50:Image captured
+13:27:50:CRP-demo analysed
+13:27:50:[ 42.24368415 269.65430209  96.39241775]
+13:27:52:Test Value: 269.65 Control Value: 42.24 Raw Value: 6.38
+13:27:52:assay scanned. TL: 269.65 CL: 42.24 RV: 6.38
+13:27:52:Result added in database
+13:27:52:Patient data report was not generated because no patientid
+13:27:59:Test result was overwritten
+13:28:02:Image captured
+13:28:02:CRP-demo analysed
+13:28:02:[ 38.67537288 268.05769045  96.8739159 ]
+13:28:03:Test Value: 268.06 Control Value: 38.68 Raw Value: 6.93
+13:28:03:assay scanned. TL: 268.06 CL: 38.68 RV: 6.93
+13:28:03:Result added in database
+13:28:04:Patient data report was not generated because no patientid
+13:28:19:Test result was overwritten
+13:28:23:Image captured
+13:28:23:CRP-demo analysed
+13:28:23:[10.62989753  5.97163398]
+13:28:24:Test Value: 5.97 Control Value: 10.63 Raw Value: 0.56
+13:28:24:assay scanned. TL: 5.97 CL: 10.63 RV: 0.56
+13:28:24:Result added in database
+13:28:24:Patient data report was not generated because no patientid
+13:28:29:Test result was overwritten
+13:28:32:Image captured
+13:28:32:CRP-demo analysed
+13:28:32:[11.46889375  6.43476063]
+13:28:34:Test Value: 6.43 Control Value: 11.47 Raw Value: 0.56
+13:28:34:assay scanned. TL: 6.43 CL: 11.47 RV: 0.56
+13:28:34:Result added in database
+13:28:34:Patient data report was not generated because no patientid
+13:28:39:Test result was overwritten
+13:28:43:Image captured
+13:28:43:CRP-demo analysed
+13:28:43:[64.15187986 17.58257883]
+13:28:44:Test Value: 17.58 Control Value: 64.15 Raw Value: 0.27
+13:28:44:assay scanned. TL: 17.58 CL: 64.15 RV: 0.27
+13:28:44:Result added in database
+13:28:44:Patient data report was not generated because no patientid
+13:28:54:Test result was overwritten
+13:28:57:Image captured
+13:28:57:CRP-demo analysed
+13:28:58:[64.6475967  16.68153952]
+13:28:59:Test Value: 16.68 Control Value: 64.65 Raw Value: 0.26
+13:28:59:assay scanned. TL: 16.68 CL: 64.65 RV: 0.26
+13:28:59:Result added in database
+13:28:59:Patient data report was not generated because no patientid
+13:30:12:No patient data for sampleid 1
+13:30:12:No patient data for sampleid 1
+13:30:12:No patient data for sampleid 1
+13:30:12:No patient data for sampleid 1
+13:30:12:No patient data for sampleid 1
+13:30:12:No patient data for sampleid 1
+13:30:12:No patient data for sampleid 1
+13:30:16:Image captured
+13:30:16:CRP-demo analysed
+13:30:16:[17.88072805]
+13:30:18:Test Value: NA Control Value: 17.88 Raw Value: Neg
+13:30:18:assay scanned. TL: NA CL: 17.88 RV: Neg
+13:30:18:Result added in database
+13:30:18:Patient data report was not generated because no patientid
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             13:29:49:Please select test
+13:30:13:No patient data for sampleid 1
+13:30:13:No patient data for sampleid 1
+13:30:13:No patient data for sampleid 1
+13:30:13:No patient data for sampleid 1
+13:30:13:No patient data for sampleid 1
+13:30:13:No patient data for sampleid 1
+13:30:13:No patient data for sampleid 1
+13:30:13:No patient data for sampleid 1
+13:30:13:No patient data for sampleid 1
+13:30:17:Image captured
+13:30:17:TSH-demo analysed
+13:30:17:[15.27454068 49.45817721]
+13:30:19:Test Value: 49.46 Control Value: 15.27 Raw Value: 3.24
+13:30:19:assay scanned. TL: 49.46 CL: 15.27 RV: 3.24
+13:30:19:Result added in database
+13:30:19:Patient data report was not generated because no patientid
+13:30:29:Test result was overwritten
+13:30:33:Image captured
+13:30:33:TSH-demo analysed
+13:30:33:[14.54954749 47.08221813  5.95874829]
+13:30:34:Test Value: 47.08 Control Value: 14.55 Raw Value: 3.24
+13:30:34:assay scanned. TL: 47.08 CL: 14.55 RV: 3.24
+13:30:34:Result added in database
+13:30:34:Patient data report was not generated because no patientid
+13:30:36:Test result was overwritten
+13:30:40:Image captured
+13:30:40:TSH-demo analysed
+13:30:40:[308.46369429]
+13:30:41:Test Value: NA Control Value: 308.46 Raw Value: Neg
+13:30:41:assay scanned. TL: NA CL: 308.46 RV: Neg
+13:30:41:Result added in database
+13:30:41:Patient data report was not generated because no patientid
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:01:No patient data for sampleid 1
+13:31:05:Image captured
+13:31:05:TSH-demo analysed
+13:31:05:[53.80647035  5.93090933]
+13:31:06:Test Value: 5.93 Control Value: 53.81 Raw Value: 0.11
+13:31:06:assay scanned. TL: 5.93 CL: 53.81 RV: 0.11
+13:31:06:Result added in database
+13:31:07:Patient data report was not generated because no patientid
+13:42:52:Test result was overwritten
+13:42:56:Image captured
+13:42:56:TSH-demo analysed
+13:42:56:[ 6.60925635 45.38103783]
+13:42:57:Test Value: 45.38 Control Value: 6.61 Raw Value: 6.87
+13:42:57:assay scanned. TL: 45.38 CL: 6.61 RV: 6.87
+13:42:57:Result added in database
+13:42:57:Patient data report was not generated because no patientid
+13:43:07:Test result was overwritten
+13:43:11:Image captured
+13:43:11:TSH-demo analysed
+13:43:11:[32.51827368 10.11847403 16.46351273  5.6469308 ]
+13:43:12:Test Value: 10.12 Control Value: 32.52 Raw Value: 0.31
+13:43:12:assay scanned. TL: 10.12 CL: 32.52 RV: 0.31
+13:43:12:Result added in database
+13:43:12:Patient data report was not generated because no patientid
+13:43:14:Test result was overwritten
+13:43:18:Image captured
+13:43:18:TSH-demo analysed
+13:43:18:[34.38568195 16.4691393  10.21673313  5.49889892  5.61362451]
+13:43:19:Test Value: 16.47 Control Value: 34.39 Raw Value: 0.48
+13:43:19:assay scanned. TL: 16.47 CL: 34.39 RV: 0.48
+13:43:19:Result added in database
+13:43:19:Patient data report was not generated because no patientid
+13:43:21:Test result was overwritten
+13:43:25:Image captured
+13:43:25:TSH-demo analysed
+13:43:25:[34.08208642 16.84560617 10.30601077  5.54630733  6.94562269]
+13:43:26:Test Value: 16.85 Control Value: 34.08 Raw Value: 0.49
+13:43:26:assay scanned. TL: 16.85 CL: 34.08 RV: 0.49
+13:43:26:Result added in database
+13:43:26:Patient data report was not generated because no patientid
+13:43:29:Test result was overwritten
+13:43:33:Image captured
+13:43:33:TSH-demo analysed
+13:43:33:[28.21695428  9.99746801 18.30926451  5.48912101  6.72935031]
+13:43:34:Test Value: 10.0 Control Value: 28.22 Raw Value: 0.35
+13:43:34:assay scanned. TL: 10.0 CL: 28.22 RV: 0.35
+13:43:34:Result added in database
+13:43:34:Patient data report was not generated because no patientid
+13:43:41:Test result was overwritten
+13:43:44:Image captured
+13:43:44:TSH-demo analysed
+13:43:45:[ 6.41772209 45.51470741]
+13:43:46:Test Value: 45.51 Control Value: 6.42 Raw Value: 7.09
+13:43:46:assay scanned. TL: 45.51 CL: 6.42 RV: 7.09
+13:43:46:Result added in database
+13:43:46:Patient data report was not generated because no patientid
+13:43:51:Test result was overwritten
+13:43:54:Image captured
+13:43:54:TSH-demo analysed
+13:43:55:[ 6.85035295 46.70326687  5.01989612]
+13:43:56:Test Value: 46.7 Control Value: 6.85 Raw Value: 6.82
+13:43:56:assay scanned. TL: 46.7 CL: 6.85 RV: 6.82
+13:43:56:Result added in database
+13:43:56:Patient data report was not generated because no patientid
+13:43:58:Test result was overwritten
+13:44:02:Image captured
+13:44:02:TSH-demo analysed
+13:44:02:[ 8.8935871  48.27106083  5.24177872]
+13:44:03:Test Value: 48.27 Control Value: 8.89 Raw Value: 5.43
+13:44:03:assay scanned. TL: 48.27 CL: 8.89 RV: 5.43
+13:44:03:Result added in database
+13:44:03:Patient data report was not generated because no patientid
+13:44:10:Test result was overwritten
+13:44:13:Image captured
+13:44:13:TSH-demo analysed
+13:44:14:[ 7.90544148 45.22875828]
+13:44:15:Test Value: 45.23 Control Value: 7.91 Raw Value: 5.72
+13:44:15:assay scanned. TL: 45.23 CL: 7.91 RV: 5.72
+13:44:15:Result added in database
+13:44:15:Patient data report was not generated because no patientid
+13:44:20:Test result was overwritten
+13:44:23:Image captured
+13:44:23:TSH-demo analysed
+13:44:23:[ 5.86054779 47.51304365]
+13:44:24:Test Value: 47.51 Control Value: 5.86 Raw Value: 8.11
+13:44:24:assay scanned. TL: 47.51 CL: 5.86 RV: 8.11
+13:44:24:Result added in database
+13:44:25:Patient data report was not generated because no patientid
+13:44:46:Test result was overwritten
+13:44:50:Image captured
+13:44:50:TSH-demo analysed
+13:44:50:[20.62562731  8.55830558 37.70370041  9.91946622]
+13:44:51:Test Value: 8.56 Control Value: 20.63 Raw Value: 0.41
+13:44:51:assay scanned. TL: 8.56 CL: 20.63 RV: 0.41
+13:44:51:Result added in database
+13:44:52:Patient data report was not generated because no patientid
+13:44:56:Test result was overwritten
+13:44:59:Image captured
+13:44:59:TSH-demo analysed
+13:44:59:[19.90238299  8.81352219 38.47248513  5.23973581  8.89400787]
+13:45:00:Test Value: 8.81 Control Value: 19.9 Raw Value: 0.44
+13:45:00:assay scanned. TL: 8.81 CL: 19.9 RV: 0.44
+13:45:00:Result added in database
+13:45:01:Patient data report was not generated because no patientid
+13:45:08:Test result was overwritten
+13:45:12:Image captured
+13:45:12:TSH-demo analysed
+13:45:12:[20.3826404   7.90602593 39.18878341  5.38282313  8.47534355]
+13:45:13:Test Value: 7.91 Control Value: 20.38 Raw Value: 0.39
+13:45:13:assay scanned. TL: 7.91 CL: 20.38 RV: 0.39
+13:45:13:Result added in database
+13:45:13:Patient data report was not generated because no patientid
+13:45:22:Test result was overwritten
+13:45:26:Image captured
+13:45:26:TSH-demo analysed
+13:45:26:[10.06839256]
+13:45:27:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:45:27:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:45:29:Err 01: could not detect sample
+13:45:29:Not added because it had error
+13:45:29:Patient data report was not generated because no patientid
+13:45:36:Test result was overwritten
+13:45:39:Image captured
+13:45:39:TSH-demo analysed
+13:45:39:[ 6.36748788 50.11046034]
+13:45:40:Test Value: 50.11 Control Value: 6.37 Raw Value: 7.87
+13:45:40:assay scanned. TL: 50.11 CL: 6.37 RV: 7.87
+13:45:40:Result added in database
+13:45:41:Patient data report was not generated because no patientid
+13:46:00:Test result was overwritten
+13:46:04:Image captured
+13:46:04:TSH-demo analysed
+13:46:04:[ 5.67689776 49.12470248]
+13:46:05:Test Value: 49.12 Control Value: 5.68 Raw Value: 8.65
+13:46:05:assay scanned. TL: 49.12 CL: 5.68 RV: 8.65
+13:46:05:Result added in database
+13:46:05:Patient data report was not generated because no patientid
+13:46:08:Test result was overwritten
+13:46:12:Image captured
+13:46:12:TSH-demo analysed
+13:46:12:[43.67165743 48.67666451]
+13:46:13:Test Value: 48.68 Control Value: 43.67 Raw Value: 1.11
+13:46:13:assay scanned. TL: 48.68 CL: 43.67 RV: 1.11
+13:46:13:Result added in database
+13:46:13:Patient data report was not generated because no patientid
+13:46:16:Test result was overwritten
+13:46:20:Image captured
+13:46:20:TSH-demo analysed
+13:46:20:[43.1763542  47.63586635]
+13:46:21:Test Value: 47.64 Control Value: 43.18 Raw Value: 1.1
+13:46:21:assay scanned. TL: 47.64 CL: 43.18 RV: 1.1
+13:46:21:Result added in database
+13:46:21:Patient data report was not generated because no patientid
+13:46:27:Test result was overwritten
+13:46:31:Image captured
+13:46:31:TSH-demo analysed
+13:46:31:[ 5.92727851 48.71135408]
+13:46:32:Test Value: 48.71 Control Value: 5.93 Raw Value: 8.21
+13:46:32:assay scanned. TL: 48.71 CL: 5.93 RV: 8.21
+13:46:32:Result added in database
+13:46:32:Patient data report was not generated because no patientid
+13:46:50:Test result was overwritten
+13:46:53:Image captured
+13:46:53:TSH-demo analysed
+13:46:54:[25.74478249 52.79167745]
+13:46:55:Test Value: 52.79 Control Value: 25.74 Raw Value: 2.05
+13:46:55:assay scanned. TL: 52.79 CL: 25.74 RV: 2.05
+13:46:55:Result added in database
+13:46:55:Patient data report was not generated because no patientid
+13:47:00:Test result was overwritten
+13:47:03:Image captured
+13:47:03:TSH-demo analysed
+13:47:04:[ 56.11806732 116.36154058]
+13:47:05:Test Value: 116.36 Control Value: 56.12 Raw Value: 2.07
+13:47:05:assay scanned. TL: 116.36 CL: 56.12 RV: 2.07
+13:47:05:Result added in database
+13:47:05:Patient data report was not generated because no patientid
+13:47:11:Test result was overwritten
+13:47:14:Image captured
+13:47:14:TSH-demo analysed
+13:47:15:[20.8687976  32.48784902]
+13:47:16:Test Value: 32.49 Control Value: 20.87 Raw Value: 1.56
+13:47:16:assay scanned. TL: 32.49 CL: 20.87 RV: 1.56
+13:47:16:Result added in database
+13:47:16:Patient data report was not generated because no patientid
+13:47:22:Test result was overwritten
+13:47:26:Image captured
+13:47:26:TSH-demo analysed
+13:47:26:[22.18834743 37.84841746]
+13:47:27:Test Value: 37.85 Control Value: 22.19 Raw Value: 1.71
+13:47:27:assay scanned. TL: 37.85 CL: 22.19 RV: 1.71
+13:47:27:Result added in database
+13:47:28:Patient data report was not generated because no patientid
+13:47:41:Test result was overwritten
+13:47:44:Image captured
+13:47:44:TSH-demo analysed
+13:47:44:[56.51498712]
+13:47:45:Test Value: NA Control Value: 56.51 Raw Value: Neg
+13:47:45:assay scanned. TL: NA CL: 56.51 RV: Neg
+13:47:45:Result added in database
+13:47:46:Patient data report was not generated because no patientid
+13:48:57:Test result was overwritten
+13:49:01:Image captured
+13:49:01:TSH-demo analysed
+13:49:01:[56.46480543  7.67930156]
+13:49:02:Test Value: 7.68 Control Value: 56.46 Raw Value: 0.14
+13:49:02:assay scanned. TL: 7.68 CL: 56.46 RV: 0.14
+13:49:02:Result added in database
+13:49:02:Patient data report was not generated because no patientid
+13:49:31:Test result was overwritten
+13:49:35:Image captured
+13:49:35:TSH-demo analysed
+13:49:35:[30.37868704 16.26464908  5.19859439 10.43334649]
+13:49:36:Test Value: 16.26 Control Value: 30.38 Raw Value: 0.54
+13:49:36:assay scanned. TL: 16.26 CL: 30.38 RV: 0.54
+13:49:36:Result added in database
+13:49:37:Patient data report was not generated because no patientid
+13:50:00:Test result was overwritten
+13:50:04:Image captured
+13:50:04:TSH-demo analysed
+13:50:04:[31.60446069 17.11040612  5.18105091  8.97574696]
+13:50:05:Test Value: 17.11 Control Value: 31.6 Raw Value: 0.54
+13:50:05:assay scanned. TL: 17.11 CL: 31.6 RV: 0.54
+13:50:05:Result added in database
+13:50:05:Patient data report was not generated because no patientid
+13:50:27:Test result was overwritten
+13:50:31:Image captured
+13:50:31:TSH-demo analysed
+13:50:31:[57.60941826]
+13:50:32:Test Value: NA Control Value: 57.61 Raw Value: Neg
+13:50:32:assay scanned. TL: NA CL: 57.61 RV: Neg
+13:50:32:Result added in database
+13:50:32:Patient data report was not generated because no patientid
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:38:No patient data for sampleid 1
+13:13:42:Image captured
+13:13:42:TSH-demo analysed
+13:13:42:[ 15.17757811 176.44479835   6.29138178  16.61364646]
+13:13:43:Test Value: 176.44 Control Value: 15.18 Raw Value: 11.62
+13:13:43:assay scanned. TL: 176.44 CL: 15.18 RV: 11.62
+13:13:43:Result added in database
+13:13:44:Patient data report was not generated because no patientid
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:02:No patient data for sampleid 1
+13:22:05:Image captured
+13:22:05:CRP-demo analysed
+13:22:06:[  7.64758786   5.95351455 109.86694051   9.67704411  96.64955156]
+13:22:07:Test Value: 5.95 Control Value: 7.65 Raw Value: 0.78
+13:22:07:assay scanned. TL: 5.95 CL: 7.65 RV: 0.78
+13:22:07:Result added in database
+13:22:08:Patient data report was not generated because no patientid
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:45:No patient data for sampleid 1
+13:27:49:Image captured
+13:27:49:TSH-demo analysed
+13:27:49:[  8.77668192   7.14389428 122.1088559   10.71181036 105.58574535]
+13:27:51:Test Value: 7.14 Control Value: 8.78 Raw Value: 0.81
+13:27:51:assay scanned. TL: 7.14 CL: 8.78 RV: 0.81
+13:27:51:Result added in database
+13:27:51:Patient data report was not generated because no patientid
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:05:No patient data for sampleid 1
+13:29:09:Image captured
+13:29:09:CRP-demo analysed
+13:29:09:[  6.55352001 193.38728433  16.59849479 174.16464142]
+13:29:11:Test Value: 193.39 Control Value: 6.55 Raw Value: 29.53
+13:29:11:assay scanned. TL: 193.39 CL: 6.55 RV: 29.53
+13:29:11:Result added in database
+13:29:11:Patient data report was not generated because no patientid
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:07:No patient data for sampleid 1
+13:33:10:Image captured
+13:33:10:CRP-demo analysed
+13:33:10:[  7.35009852 193.19669852  16.42994251]
+13:33:12:Test Value: 193.2 Control Value: 7.35 Raw Value: 26.29
+13:33:12:assay scanned. TL: 193.2 CL: 7.35 RV: 26.29
+13:33:12:Result added in database
+13:33:12:Patient data report was not generated because no patientid
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:45:No patient data for sampleid 1
+13:37:49:Image captured
+13:37:49:CRP-demo analysed
+13:37:49:[  6.87486996 193.70051996  16.72984182]
+13:37:51:Test Value: 193.7 Control Value: 6.87 Raw Value: 28.2
+13:37:51:assay scanned. TL: 193.7 CL: 6.87 RV: 28.2
+13:37:51:Result added in database
+13:37:51:Patient data report was not generated because no patientid
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:28:No patient data for sampleid 1
+13:39:31:Image captured
+13:39:31:TSH-demo analysed
+13:39:31:[  6.86641954 193.94923053  15.95729799]
+13:39:33:Test Value: 193.95 Control Value: 6.87 Raw Value: 28.23
+13:39:33:assay scanned. TL: 193.95 CL: 6.87 RV: 28.23
+13:39:33:Result added in database
+13:39:33:Patient data report was not generated because no patientid
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:22:No patient data for sampleid 1
+13:41:26:Image captured
+13:41:26:CRP-demo analysed
+13:41:26:[193.95438238  16.16957733]
+13:41:28:Test Value: 16.17 Control Value: 193.95 Raw Value: 0.08
+13:41:28:assay scanned. TL: 16.17 CL: 193.95 RV: 0.08
+13:41:28:Result added in database
+13:41:28:Patient data report was not generated because no patientid
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:07:No patient data for sampleid 1
+13:47:11:Image captured
+13:47:11:CRP-demo analysed
+13:47:11:[181.80668891  15.6816776 ]
+13:47:13:Test Value: 15.68 Control Value: 181.81 Raw Value: 0.09
+13:47:13:assay scanned. TL: 15.68 CL: 181.81 RV: 0.09
+13:47:13:Result added in database
+13:47:13:Patient data report was not generated because no patientid
+13:58:22:Test result was overwritten
+13:58:26:Image captured
+13:58:26:CRP-demo analysed
+13:58:26:[32.55427477 26.89069969]
+13:58:27:Test Value: 26.89 Control Value: 32.55 Raw Value: 0.83
+13:58:27:assay scanned. TL: 26.89 CL: 32.55 RV: 0.83
+13:58:27:Result added in database
+13:58:27:Patient data report was not generated because no patientid
+13:59:54:Test result was overwritten
+13:59:58:Image captured
+13:59:58:CRP-demo analysed
+13:59:58:[57.44007571 12.15824021]
+13:59:59:Test Value: 12.16 Control Value: 57.44 Raw Value: 0.21
+13:59:59:assay scanned. TL: 12.16 CL: 57.44 RV: 0.21
+13:59:59:Result added in database
+13:59:59:Patient data report was not generated because no patientid
+14:01:01:Test result was overwritten
+14:01:04:Image captured
+14:01:04:CRP-demo analysed
+14:01:04:[51.60800334  9.34797269]
+14:01:05:Test Value: 9.35 Control Value: 51.61 Raw Value: 0.18
+14:01:05:assay scanned. TL: 9.35 CL: 51.61 RV: 0.18
+14:01:05:Result added in database
+14:01:06:Patient data report was not generated because no patientid
+14:01:59:Test result was overwritten
+14:02:02:Image captured
+14:02:02:CRP-demo analysed
+14:02:03:[103.73911298   8.52034761  14.28260575]
+14:02:04:Test Value: 8.52 Control Value: 103.74 Raw Value: 0.08
+14:02:04:assay scanned. TL: 8.52 CL: 103.74 RV: 0.08
+14:02:04:Result added in database
+14:02:04:Patient data report was not generated because no patientid
+14:06:54:Test result was overwritten
+14:06:57:Image captured
+14:06:57:CRP-demo analysed
+14:06:57:[199.64109077  15.34649614]
+14:06:59:Test Value: 15.35 Control Value: 199.64 Raw Value: 0.08
+14:06:59:assay scanned. TL: 15.35 CL: 199.64 RV: 0.08
+14:06:59:Result added in database
+14:06:59:Patient data report was not generated because no patientid
+14:09:08:Test for W was initiated
+14:09:32:Image captured
+14:09:32:CRP-demo analysed
+14:09:32:[ 14.44896226 178.2058726   12.25745783]
+14:09:34:Test Value: 178.21 Control Value: 14.45 Raw Value: 12.33
+14:09:34:assay scanned. TL: 178.21 CL: 14.45 RV: 12.33
+14:09:34:Result added in database
+14:09:34:Patient data report was not generated because no patientid
+14:10:31:Test result was overwritten
+14:10:35:Image captured
+14:10:35:CRP-demo analysed
+14:10:35:[247.09012088  19.72223468]
+14:10:36:Test Value: 19.72 Control Value: 247.09 Raw Value: 0.08
+14:10:36:assay scanned. TL: 19.72 CL: 247.09 RV: 0.08
+14:10:36:Result added in database
+14:10:36:Patient data report was not generated because no patientid
+14:12:30:Test result was overwritten
+14:12:33:Image captured
+14:12:33:CRP-demo analysed
+14:12:34:[156.62366937  50.81726656  22.07478034]
+14:12:34:Test Value: 50.82 Control Value: 156.62 Raw Value: 0.32
+14:12:34:assay scanned. TL: 50.82 CL: 156.62 RV: 0.32
+14:12:34:Result added in database
+14:12:34:Patient data report was not generated because no patientid
+14:14:16:Test result was overwritten
+14:14:20:Image captured
+14:14:20:CRP-demo analysed
+14:14:20:[174.02029152  10.15455044]
+14:14:21:Test Value: 10.15 Control Value: 174.02 Raw Value: 0.06
+14:14:21:assay scanned. TL: 10.15 CL: 174.02 RV: 0.06
+14:14:21:Result added in database
+14:14:21:Patient data report was not generated because no patientid
+14:27:16:Parameter for 1/7.27/-0.121 has been updated
+14:27:16:Parameter for 1/7.27/-0.121 has been updated
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:32:No patient data for sampleid 1
+14:27:36:Image captured
+14:27:36:LH-demo analysed
+14:27:36:[58.55250741  8.7708536 ]
+14:27:38:Test Value: 8.77 Control Value: 58.55 Raw Value: 0.15
+14:27:38:assay scanned. TL: 8.77 CL: 58.55 RV: 0.15
+14:27:38:Result added in database
+14:27:38:Patient data report was not generated because no patientid
+14:28:19:Test result was overwritten
+14:28:22:Image captured
+14:28:22:LH-demo analysed
+14:28:22:[58.25379851 14.61110963]
+14:28:24:Test Value: 14.61 Control Value: 58.25 Raw Value: 0.25
+14:28:24:assay scanned. TL: 14.61 CL: 58.25 RV: 0.25
+14:28:24:Result added in database
+14:28:24:Patient data report was not generated because no patientid
+14:28:38:Test result was overwritten
+14:28:41:Image captured
+14:28:41:LH-demo analysed
+14:28:42:[42.07768062 29.14081019]
+14:28:42:Test Value: 29.14 Control Value: 42.08 Raw Value: 0.69
+14:28:42:assay scanned. TL: 29.14 CL: 42.08 RV: 0.69
+14:28:42:Result added in database
+14:28:42:Patient data report was not generated because no patientid
+14:29:01:Test result was overwritten
+14:29:04:Image captured
+14:29:04:LH-demo analysed
+14:29:05:[101.11876332]
+14:29:06:Test Value: NA Control Value: 101.12 Raw Value: Neg
+14:29:06:assay scanned. TL: NA CL: 101.12 RV: Neg
+14:29:06:Result added in database
+14:29:06:Patient data report was not generated because no patientid
+14:31:12:Parameter for 1/0.686/0.0135 has been updated
+14:31:12:Parameter for 1/0.686/0.0135 has been updated
+14:31:21:User deleted from analyte records calibrationMT008040
+14:31:22:MT008040 deleted from the records
+14:31:25:User deleted from analyte records calibration17240305
+14:31:26:17240305 deleted from the records
+14:31:28:User deleted from analyte records calibration4
+14:31:29:4 deleted from the records
+14:31:31:User deleted from analyte records calibration62231023
+14:31:32:62231023 deleted from the records
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:31:58:No patient data for sampleid 1
+14:32:01:Image captured
+14:32:01:FSH-demo analysed
+14:32:01:[167.31103717  21.12116668]
+14:32:02:Test Value: 21.12 Control Value: 167.31 Raw Value: 0.13
+14:32:02:assay scanned. TL: 21.12 CL: 167.31 RV: 0.13
+14:32:02:Result added in database
+14:32:03:Patient data report was not generated because no patientid
+14:32:45:Test result was overwritten
+14:32:49:Image captured
+14:32:49:FSH-demo analysed
+14:32:49:[ 12.58217769 122.56888402  12.07343928]
+14:32:50:Test Value: 122.57 Control Value: 12.58 Raw Value: 9.74
+14:32:50:assay scanned. TL: 122.57 CL: 12.58 RV: 9.74
+14:32:50:Result added in database
+14:32:50:Patient data report was not generated because no patientid
+14:33:10:Test result was overwritten
+14:33:14:Image captured
+14:33:14:FSH-demo analysed
+14:33:14:[ 14.85205813 248.26758001  20.40597289]
+14:33:15:Test Value: 248.27 Control Value: 14.85 Raw Value: 16.72
+14:33:15:assay scanned. TL: 248.27 CL: 14.85 RV: 16.72
+14:33:15:Result added in database
+14:33:15:Patient data report was not generated because no patientid
+14:33:37:Test result was overwritten
+14:33:41:Image captured
+14:33:41:FSH-demo analysed
+14:33:41:[ 14.60686707 247.87820021  20.24368191]
+14:33:42:Test Value: 247.88 Control Value: 14.61 Raw Value: 16.97
+14:33:42:assay scanned. TL: 247.88 CL: 14.61 RV: 16.97
+14:33:42:Result added in database
+14:33:42:Patient data report was not generated because no patientid
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:53:No patient data for sampleid 1
+14:45:57:Image captured
+14:45:57:FSH-demo analysed
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:53:No patient data for sampleid 1
+14:48:57:Image captured
+14:48:57:FSH-demo analysed
+14:48:57:[ 14.67368178 249.49268497  24.57215886]
+14:48:58:Test Value: 249.49 Control Value: 14.67 Raw Value: 17.01
+14:48:58:assay scanned. TL: 249.49 CL: 14.67 RV: 17.01
+14:48:59:Result added in database
+14:48:59:Patient data report was not generated because no patientid
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:25:No patient data for sampleid 1
+14:50:29:Image captured
+14:50:29:FSH-demo analysed
+14:50:29:[ 15.10238523 249.43141689  24.85684561]
+14:50:31:Test Value: 249.43 Control Value: 15.1 Raw Value: 16.52
+14:50:31:assay scanned. TL: 249.43 CL: 15.1 RV: 16.52
+14:50:31:Result added in database
+14:50:31:Patient data report was not generated because no patientid
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:23:No patient data for sampleid 1
+14:51:27:Image captured
+14:51:27:FSH-demo analysed
+14:51:27:[ 14.52457374 250.26176639  25.48008571]
+14:51:29:Test Value: 250.26 Control Value: 14.52 Raw Value: 17.24
+14:51:29:assay scanned. TL: 250.26 CL: 14.52 RV: 17.24
+14:51:29:Result added in database
+14:51:29:Patient data report was not generated because no patientid
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:34:No patient data for sampleid 1
+14:52:38:Image captured
+14:52:38:FSH-demo analysed
+14:52:38:[ 14.29087943 251.65181972  25.23564343]
+14:52:40:Test Value: 251.65 Control Value: 14.29 Raw Value: 17.61
+14:52:40:assay scanned. TL: 251.65 CL: 14.29 RV: 17.61
+14:52:40:Result added in database
+14:52:40:Patient data report was not generated because no patientid
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:37:No patient data for sampleid 1
+14:53:40:Image captured
+14:53:40:FSH-demo analysed
+14:53:41:[251.05349682  24.50744644]
+14:53:42:Test Value: 24.51 Control Value: 251.05 Raw Value: 0.1
+14:53:42:assay scanned. TL: 24.51 CL: 251.05 RV: 0.1
+14:53:42:Result added in database
+14:53:43:Patient data report was not generated because no patientid
+14:54:07:Test result was overwritten
+14:54:10:Image captured
+14:54:10:FSH-demo analysed
+14:54:10:[172.21896324  26.93101262]
+14:54:11:Test Value: 26.93 Control Value: 172.22 Raw Value: 0.16
+14:54:11:assay scanned. TL: 26.93 CL: 172.22 RV: 0.16
+14:54:11:Result added in database
+14:54:12:Patient data report was not generated because no patientid
+14:54:21:Test result was overwritten
+14:54:25:Image captured
+14:54:25:FSH-demo analysed
+14:54:25:[163.09123605  70.7285952   20.30540067]
+14:54:25:Test Value: 70.73 Control Value: 163.09 Raw Value: 0.43
+14:54:25:assay scanned. TL: 70.73 CL: 163.09 RV: 0.43
+14:54:25:Result added in database
+14:54:26:Patient data report was not generated because no patientid
+14:54:39:Test result was overwritten
+14:54:42:Image captured
+14:54:42:FSH-demo analysed
+14:54:43:[245.43334909  23.64289233]
+14:54:44:Test Value: 23.64 Control Value: 245.43 Raw Value: 0.1
+14:54:44:assay scanned. TL: 23.64 CL: 245.43 RV: 0.1
+14:54:44:Result added in database
+14:54:44:Patient data report was not generated because no patientid
+14:54:55:Test result was overwritten
+14:54:59:Image captured
+14:54:59:FSH-demo analysed
+14:54:59:[]
+14:55:00:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+14:55:00:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+14:55:02:Err 01: could not detect sample
+14:55:02:Not added because it had error
+14:55:02:Patient data report was not generated because no patientid
+14:55:11:Test result was overwritten
+14:55:15:Image captured
+14:55:15:FSH-demo analysed
+14:55:15:[]
+14:55:16:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+14:55:16:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+14:55:18:Err 01: could not detect sample
+14:55:18:Not added because it had error
+14:55:18:Patient data report was not generated because no patientid
+14:55:23:Test result was overwritten
+14:55:27:Image captured
+14:55:27:FSH-demo analysed
+14:55:27:[8.54616916]
+14:55:28:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+14:55:28:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+14:55:30:Err 01: could not detect sample
+14:55:30:Not added because it had error
+14:55:30:Patient data report was not generated because no patientid
+14:55:50:Test result was overwritten
+14:55:54:Image captured
+14:55:54:FSH-demo analysed
+14:55:54:[35.23522271 14.8616479  10.39948905  8.62797377]
+14:55:55:Test Value: 14.86 Control Value: 35.24 Raw Value: 0.42
+14:55:55:assay scanned. TL: 14.86 CL: 35.24 RV: 0.42
+14:55:55:Result added in database
+14:55:56:Patient data report was not generated because no patientid
+14:56:18:Test result was overwritten
+14:56:21:Image captured
+14:56:21:FSH-demo analysed
+14:56:21:[200.2577962   12.27700236]
+14:56:23:Test Value: 12.28 Control Value: 200.26 Raw Value: 0.06
+14:56:23:assay scanned. TL: 12.28 CL: 200.26 RV: 0.06
+14:56:23:Result added in database
+14:56:23:Patient data report was not generated because no patientid
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:49:No patient data for sampleid 1
+15:02:52:Image captured
+15:02:52:TSH-demo analysed
+15:02:53:[44.10696603 31.13678107]
+15:02:54:Test Value: 31.14 Control Value: 44.11 Raw Value: 0.71
+15:02:54:assay scanned. TL: 31.14 CL: 44.11 RV: 0.71
+15:02:54:Result added in database
+15:02:54:Patient data report was not generated because no patientid
+15:03:15:Test result was overwritten
+15:03:18:Image captured
+15:03:18:TSH-demo analysed
+15:03:19:[ 12.60579777 215.05605294  20.02588477]
+15:03:19:Test Value: 215.06 Control Value: 12.61 Raw Value: 17.05
+15:03:19:assay scanned. TL: 215.06 CL: 12.61 RV: 17.05
+15:03:19:Result added in database
+15:03:19:Patient data report was not generated because no patientid
+15:03:34:Test result was overwritten
+15:03:38:Image captured
+15:03:38:TSH-demo analysed
+15:03:38:[ 13.99549299 240.02816034  22.77313214]
+15:03:38:Test Value: 240.03 Control Value: 14.0 Raw Value: 17.14
+15:03:38:assay scanned. TL: 240.03 CL: 14.0 RV: 17.14
+15:03:38:Result added in database
+15:03:39:Patient data report was not generated because no patientid
+15:04:13:Test result was overwritten
+15:04:17:Image captured
+15:04:17:TSH-demo analysed
+15:04:17:[64.42891819  8.16976109]
+15:04:18:Test Value: 8.17 Control Value: 64.43 Raw Value: 0.13
+15:04:18:assay scanned. TL: 8.17 CL: 64.43 RV: 0.13
+15:04:18:Result added in database
+15:04:18:Patient data report was not generated because no patientid
+13:16:55:Test for F was initiated
+13:17:03:Image captured
+13:17:03:TSH-demo analysed
+13:17:03:[]
+13:17:04:Test Value: NA Control Value: NA Raw Value: Err 02: no control line
+13:17:04:assay scanned. TL: NA CL: NA RV: Err 02: no control line
+13:17:25:Err 02: no control line
+13:17:25:Not added because it had error
+13:17:25:Patient data report was not generated because no patientid
+13:19:07:Test for HJ was initiated
+13:19:21:Image captured
+13:19:21:TSH-demo analysed
+13:19:21:[]
+13:19:22:Test Value: NA Control Value: NA Raw Value: Err 02: no control line
+13:19:22:assay scanned. TL: NA CL: NA RV: Err 02: no control line
+13:19:27:Err 02: no control line
+13:19:27:Not added because it had error
+13:19:27:Patient data report was not generated because no patientid
+13:21:07:Test result was overwritten
+13:21:11:Image captured
+13:21:11:TSH-demo analysed
+13:22:14:Test for 2 was initiated
+13:22:21:Please select BatchID
+13:22:40:Image captured
+13:22:40:TSH-demo analysed
+13:23:21:Test for JG was initiated
+13:23:36:Image captured
+13:23:36:TSH-demo analysed
+13:23:36:[]
+13:23:37:Test Value: NA Control Value: NA Raw Value: Err 02: no control line
+13:23:37:assay scanned. TL: NA CL: NA RV: Err 02: no control line
+13:23:49:Err 02: no control line
+13:23:49:Not added because it had error
+13:23:49:Patient data report was not generated because no patientid
+13:36:48:Test for MM was initiated
+13:36:55:Image captured
+13:36:55:TSH-demo analysed
+13:36:55:[]
+13:36:55:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+13:36:55:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+13:37:08:Err 01: could not detect sample
+13:37:08:Not added because it had error
+13:37:09:Patient data report was not generated because no patientid
+13:37:43:Test for 5JK was initiated
+13:37:49:Image captured
+13:37:49:TSH-demo analysed
+13:37:49:[]
+13:37:50:Test Value: NA Control Value: NA Raw Value: Err 02: no control line
+13:37:50:assay scanned. TL: NA CL: NA RV: Err 02: no control line
+13:38:04:Err 02: no control line
+13:38:04:Not added because it had error
+13:38:04:Patient data report was not generated because no patientid
+13:38:15:Test for 5NH was initiated
+13:38:23:Image captured
+13:38:23:TSH-demo analysed
+13:38:23:[]
+13:38:24:Test Value: NA Control Value: NA Raw Value: Err 02: no control line
+13:38:24:assay scanned. TL: NA CL: NA RV: Err 02: no control line
+13:38:32:Err 02: no control line
+13:38:32:Not added because it had error
+13:38:32:Patient data report was not generated because no patientid
+13:08:07:Test for ML was initiated
+13:08:23:Image captured
+13:08:23:TSH-demo analysed
+13:08:24:[13.74457463 83.29094136  9.52684022]
+13:08:25:Test Value: 83.29 Control Value: 13.74 Raw Value: 6.06
+13:08:25:assay scanned. TL: 83.29 CL: 13.74 RV: 6.06
+13:08:25:Result added in database
+13:08:25:Patient data report was not generated because no patientid
+13:08:33:ResultView accessed
+13:08:56:Test for JK was initiated
+13:09:05:Image captured
+13:09:05:CRP-demo analysed
+13:09:05:[13.75393687 86.50704506 10.38617809]
+13:09:06:Test Value: 86.51 Control Value: 13.75 Raw Value: 6.29
+13:09:06:assay scanned. TL: 86.51 CL: 13.75 RV: 6.29
+13:09:06:Result added in database
+13:09:07:Patient data report was not generated because no patientid
+                                                                                                13:18:38:ResultView accessed
+13:18:56:ResultView accessed
+13:21:30:Device settings page accessed
+13:09:25:Device settings page accessed
+13:09:35:Device data page accessed
+13:10:50:Device settings page accessed
+13:14:22:Parameter for 1/2/3/4 has been updated
+13:14:22:Parameter for 1/2/3/4 has been updated
+13:18:33:Parameter for 1/2/3/4 has been updated
+13:18:33:Parameter for 1/2/3/4 has been updated
+13:28:32:Parameter for 1/2/3/4 has been updated
+13:28:32:Parameter for 1/2/3/4 has been updated
+13:29:25:Parameter for 1/2/3/4 has been updated
+13:29:25:Parameter for 1/2/3/4 has been updated
+13:36:13:Parameter for 1/2/3/4 has been updated
+13:36:13:Parameter for 1/2/3/4 has been updated
+13:37:49:Parameter for 1/2/3/4 has been updated
+13:37:49:Parameter for 1/2/3/4 has been updated
+13:38:50:Parameter for 1/2/3/4 has been updated
+13:38:50:Parameter for 1/2/3/4 has been updated
+13:39:51:Parameter for 1/2/3/4 has been updated
+13:39:51:Parameter for 1/2/3/4 has been updated
+13:40:47:Parameter for 1/2/3/4 has been updated
+13:40:47:Parameter for 1/2/3/4 has been updated
+13:41:33:Parameter for 1/2/3/4 has been updated
+13:41:33:Parameter for 1/2/3/4 has been updated
+13:42:54:Parameter for 1/2/3/4 has been updated
+13:42:54:Parameter for 1/2/3/4 has been updated
+13:43:38:Parameter for 1/2/3/4 has been updated
+13:43:38:Parameter for 1/2/3/4 has been updated
+13:44:27:Parameter for 1/1/1/1 has been updated
+13:44:27:Parameter for 1/1/1/1 has been updated
+13:45:24:Parameter for 1/1/1/1 has been updated
+13:45:24:Parameter for 1/1/1/1 has been updated
+13:46:07:Parameter for 1/1/1/1 has been updated
+13:46:07:Parameter for 1/1/1/1 has been updated
+13:46:53:Parameter for 1/1/1/1 has been updated
+13:46:53:Parameter for 1/1/1/1 has been updated
+13:47:29:Parameter for 1/1/1/1 has been updated
+13:47:29:Parameter for 1/1/1/1 has been updated
+13:48:02:User deleted from analyte records calibrationtsh-demo
+13:48:06:tsh-demo deleted from the records
+13:48:10:User deleted from analyte records calibrationcrp-demo
+13:48:11:crp-demo deleted from the records
+13:48:15:User deleted from analyte records calibrationLH-demo
+13:48:16:LH-demo deleted from the records
+13:48:21:User deleted from analyte records calibrationfsh-demo
+13:48:22:fsh-demo deleted from the records
+13:48:38:User deleted from analyte records calibration62240713
+13:48:40:62240713 deleted from the records
+13:19:52:ResultView accessed
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:04:No patient data for sampleid 1
+13:22:08:Image captured
+13:22:08:CRP analysed
+13:22:08:[124.02082695  51.62657435]
+13:22:10:Test Value: 51.63 Control Value: 124.02 Raw Value: 0.42
+13:22:10:assay scanned. TL: 51.63 CL: 124.02 RV: 0.42
+13:22:10:Result added in database
+13:22:10:Patient data report was not generated because no patientid
+13:24:03:Device settings page accessed
+13:25:22:Device settings page accessed
+13:25:24:Device data page accessed
+13:25:35:Device Info seen
+13:26:08:Device settings page accessed
+13:27:45:Test for 4 was initiated
+13:28:03:Device data page accessed
+13:29:02:Device data page accessed
+13:29:07:Device Info seen
+13:29:10:Device settings page accessed
+13:29:12:Device info accessed
+13:31:29:Device Info Updated
+13:31:29:Device Info updated
+13:43:55:Device settings page accessed
+13:43:59:Device data page accessed
+13:44:01:Device Info seen
+13:44:06:Device settings page accessed
+13:44:08:Device info accessed
+13:48:50:Device Info Updated
+13:48:50:Device Info updated
+13:51:48:Device settings page accessed
+13:51:50:Device info accessed
+13:52:03:Device Info Updated
+13:52:03:Device Info updated
+14:08:17:Device settings page accessed
+14:08:27:Device Info seen
+14:08:29:Device data page accessed
+14:08:32:Device settings page accessed
+14:08:35:Device info accessed
+14:09:10:Device Info Updated
+14:09:10:Device Info updated
+13:30:36:Device settings page accessed
+13:30:38:Device info accessed
+13:31:01:Device Info Updated
+13:31:01:Device Info updated
+13:15:40:Device settings page accessed
+13:15:42:Device info accessed
+13:15:56:Device Info Updated
+13:15:56:Device Info updated
+13:32:12:Parameter information is missing
+13:42:30:Parameter for 1/1/1/1 has been updated
+13:42:30:Parameter for 1/1/1/1 has been updated
+14:26:00:Test for 123 was initiated
+14:29:32:Test for 123 was initiated
+14:40:04:Test for 5 was initiated
+14:40:10:Image captured
+14:40:15:Result added in database
+14:40:16:Patient data report was not generated because no patientid
+14:41:00:Test for 3 was initiated
+14:41:06:Image captured
+14:41:06:CRP analysed
+14:41:06:[127.49465322  22.53418871  62.76641502]
+14:41:07:Test Value: 22.53 Control Value: 127.49 Raw Value: 0.18
+14:41:07:assay scanned. TL: 22.53 CL: 127.49 RV: 0.18
+14:41:07:Result added in database
+14:41:07:Patient data report was not generated because no patientid
+14:44:15:No patient data for sampleid 5
+14:44:19:Image captured
+14:44:19:CRP analysed
+14:44:19:[129.14531517  23.04484629  63.00690833]
+14:44:21:Test Value: 23.04 Control Value: 129.15 Raw Value: 0.18
+14:44:21:assay scanned. TL: 23.04 CL: 129.15 RV: 0.18
+14:44:21:Result added in database
+14:44:21:Patient data report was not generated because no patientid
+14:47:22:Test for 2 was initiated
+14:47:27:Image captured
+14:47:27:CRP analysed
+14:47:28:[127.77412329  22.60811546  63.93906175]
+14:47:29:Test Value: 22.61 Control Value: 127.77 Raw Value: 0.18
+14:47:29:assay scanned. TL: 22.61 CL: 127.77 RV: 0.18
+14:47:29:Result added in database
+14:47:30:Patient data report was not generated because no patientid
+14:49:14:Test for 123 was initiated
+14:49:19:Image captured
+14:49:19:CRP analysed
+14:49:20:[128.0063495   23.15092004  64.16950879]
+14:49:21:Test Value: 23.15 Control Value: 128.01 Raw Value: 0.18
+14:49:21:assay scanned. TL: 23.15 CL: 128.01 RV: 0.18
+14:49:21:Result added in database
+14:49:22:Patient data report was not generated because no patientid
+14:54:33:No patient data for sampleid 123
+14:54:36:Image captured
+14:54:36:CRP analysed
+14:54:37:[127.98247114  22.35082622  63.02349239]
+14:54:38:Test Value: 22.35 Control Value: 127.98 Raw Value: 0.17
+14:54:38:assay scanned. TL: 22.35 CL: 127.98 RV: 0.17
+14:54:38:Result added in database
+14:54:39:Patient data report was not generated because no patientid
+15:06:03:Test for 45 was initiated
+15:06:08:Image captured
+15:06:08:CRP analysed
+15:06:09:[106.26355256  19.5871575   53.68545839]
+15:06:10:Test Value: 19.59 Control Value: 106.26 Raw Value: 0.18
+15:06:10:assay scanned. TL: 19.59 CL: 106.26 RV: 0.18
+15:06:10:Result added in database
+15:06:11:Patient data report was not generated because no patientid
+15:08:32:Test for 1234 was initiated
+15:08:38:Image captured
+15:08:38:CRP analysed
+15:08:38:[127.55156164  21.96691681  63.6369517 ]
+15:08:40:Test Value: 21.97 Control Value: 127.55 Raw Value: 0.17
+15:08:40:assay scanned. TL: 21.97 CL: 127.55 RV: 0.17
+15:08:40:Result added in database
+15:08:40:Patient data report was not generated because no patientid
+15:12:01:Test for 4G was initiated
+15:12:08:Image captured
+15:12:08:CRP analysed
+15:12:08:[129.83237017  23.64029222  65.43741798]
+15:12:10:Test Value: 23.64 Control Value: 129.83 Raw Value: 0.18
+15:12:10:assay scanned. TL: 23.64 CL: 129.83 RV: 0.18
+15:12:10:Result added in database
+15:12:10:Patient data report was not generated because no patientid
+15:13:05:Test for 43 was initiated
+15:13:10:Image captured
+15:13:10:D-Dimer analysed
+15:13:11:[127.32049977  22.12303247  62.98465214]
+15:13:12:Test Value: 22.12 Control Value: 127.32 Raw Value: 0.17
+15:13:12:assay scanned. TL: 22.12 CL: 127.32 RV: 0.17
+15:13:12:Result added in database
+15:13:12:Patient data report was not generated because no patientid
+15:29:21:No patient data for sampleid 123
+15:29:21:No patient data for sampleid 123
+15:29:25:Image captured
+15:29:25:CRP analysed
+15:29:25:[128.07500395  22.92501452  63.76376   ]
+15:29:27:Test Value: 22.93 Control Value: 128.08 Raw Value: 0.18
+15:29:27:assay scanned. TL: 22.93 CL: 128.08 RV: 0.18
+15:29:27:Result added in database
+15:29:27:Patient data report was not generated because no patientid
+15:30:37:Test result was overwritten
+15:30:41:Image captured
+15:30:41:CRP analysed
+15:30:41:[179.02806216]
+15:30:42:Test Value: NA Control Value: 179.03 Raw Value: Neg
+15:30:42:assay scanned. TL: NA CL: 179.03 RV: Neg
+15:30:42:Result added in database
+15:30:42:Patient data report was not generated because no patientid
+15:31:06:Test result was overwritten
+15:31:10:Image captured
+15:31:10:CRP analysed
+15:31:10:[]
+15:31:11:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+15:31:11:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+15:31:13:Err 01: could not detect sample
+15:31:13:Not added because it had error
+15:31:13:Patient data report was not generated because no patientid
+15:33:45:Test for ff was initiated
+15:33:51:Image captured
+15:33:51:CRP analysed
+15:33:51:[]
+15:33:53:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+15:33:53:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+15:33:55:Err 01: could not detect sample
+15:33:55:Not added because it had error
+15:35:18:Test for ff was initiated
+15:35:23:Image captured
+15:35:23:CRP analysed
+15:35:24:[]
+15:35:25:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+15:35:25:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+15:35:30:Err 01: could not detect sample
+15:35:30:Not added because it had error
+15:35:30:Patient data report was not generated because no patientid
+15:36:46:Test result was overwritten
+15:36:50:Image captured
+15:36:50:CRP analysed
+15:36:50:[10.8386552  17.03456305 31.85864566]
+15:36:51:Test Value: 17.03 Control Value: 10.84 Raw Value: 1.57
+15:36:51:assay scanned. TL: 17.03 CL: 10.84 RV: 1.57
+15:36:51:Result added in database
+15:36:52:Patient data report was not generated because no patientid
+15:40:37:Test result was overwritten
+15:40:41:Image captured
+15:40:41:CRP analysed
+15:40:41:[10.25771436 19.51488947  9.01862011]
+15:40:42:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+15:40:42:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+15:40:44:Err 01: could not detect sample
+15:40:44:Not added because it had error
+15:40:45:Patient data report was not generated because no patientid
+15:44:32:Test for 4T was initiated
+15:44:38:Image captured
+15:44:38:TSH analysed
+15:44:38:[ 8.50425399 20.82089319]
+15:44:40:Test Value: 20.82 Control Value: 8.5 Raw Value: 2.45
+15:44:40:assay scanned. TL: 20.82 CL: 8.5 RV: 2.45
+15:44:40:Result added in database
+15:44:40:Patient data report was not generated because no patientid
+15:44:59:Test result was overwritten
+15:45:02:Image captured
+15:45:02:TSH analysed
+15:45:02:[18.94107759]
+15:45:04:Test Value: NA Control Value: NA Raw Value: Err 01: could not detect sample
+15:45:04:assay scanned. TL: NA CL: NA RV: Err 01: could not detect sample
+15:45:05:Err 01: could not detect sample
+15:45:05:Not added because it had error
+15:45:06:Patient data report was not generated because no patientid
+16:01:41:Test for 66 was initiated
+16:01:47:Image captured
+16:01:47:HIV analysed
+16:01:47:[20.41411562]
+16:01:48:HIV analysed
+16:01:48:Negative
+16:01:48:Result added in database
+16:01:49:Patient data report was not generated because no patientid
+16:01:59:Test result was overwritten
+16:02:02:Image captured
+16:02:02:HIV analysed
+16:02:03:[ 11.13999527   5.27539343 115.97094688  13.65138956  52.62682706
+   5.27775129]
+16:02:04:HIV analysed
+16:02:04:Err 04: high background
+16:02:04:Not added because it had error
+16:02:04:Patient data report was not generated because no patientid
+16:03:11:Test result was overwritten
+16:03:14:Image captured
+16:03:14:HIV analysed
+16:03:15:[ 11.21783776   6.5273446  136.50629367  55.30783264]
+16:03:16:HIV analysed
+16:03:16:Positive for HIV-2
+16:03:16:Result added in database
+16:03:16:Patient data report was not generated because no patientid
+16:09:23:Test for 4 was initiated
+16:09:29:Image captured
+16:09:29:HIV analysed
+16:09:29:[83.25659025 35.10128808]
+16:09:31:HIV analysed
+16:09:31:Positive for HIV-2
+16:09:31:Result added in database
+16:09:31:Patient data report was not generated because no patientid
+16:09:39:Test result was overwritten
+16:09:42:Image captured
+16:09:42:HIV analysed
+16:09:42:[189.8283723   76.05689507]
+16:09:43:HIV analysed
+16:09:43:Positive for HIV-2
+16:09:44:Result added in database
+16:09:44:Patient data report was not generated because no patientid
+16:09:57:Test result was overwritten
+16:10:00:Image captured
+16:10:00:HIV analysed
+16:10:01:[7.82743501]
+16:10:02:HIV analysed
+16:10:02:Negative
+16:10:02:Result added in database
+16:10:02:Patient data report was not generated because no patientid
+16:10:13:Test result was overwritten
+16:10:17:Image captured
+16:10:17:HIV analysed
+16:10:17:[13.50164867 31.35982379]
+16:10:18:HIV analysed
+16:10:18:Positive for HIV-2
+16:10:18:Result added in database
+16:10:19:Patient data report was not generated because no patientid
+16:24:16:ResultView accessed
+16:34:12:Calibration date is invalid
+16:34:14:Incorrect information format
+16:34:42:Parameter for 1/1/12/2 has been updated
+16:34:42:Parameter for 1/1/12/2 has been updated
+16:38:31:Parameter for 1/23/3 has been updated
+16:38:31:Parameter for 1/23/3 has been updated
+16:57:01:Test for TY was initiated
+16:57:07:Image captured
+16:57:07:D-Dimer analysed
+16:57:07:[121.83532139]
+16:57:09:Test Value: NA Control Value: 121.84 Raw Value: Neg
+16:57:09:assay scanned. TL: NA CL: 121.84 RV: Neg
+16:57:09:Result added in database
+16:57:09:Patient data report was not generated because no patientid
+16:57:19:Test result was overwritten
+16:57:23:Image captured
+16:57:23:D-Dimer analysed
+16:57:23:[126.06666807]
+16:57:24:Test Value: NA Control Value: 126.07 Raw Value: Neg
+16:57:24:assay scanned. TL: NA CL: 126.07 RV: Neg
+16:57:24:Result added in database
+16:57:24:Patient data report was not generated because no patientid
+16:57:38:Test result was overwritten
+16:57:42:Image captured
+16:57:42:D-Dimer analysed
+16:57:42:[188.80850198  76.10004241]
+16:57:43:Test Value: 76.1 Control Value: 188.81 Raw Value: 0.4
+16:57:43:assay scanned. TL: 76.1 CL: 188.81 RV: 0.4
+16:57:43:Result added in database
+16:57:43:Patient data report was not generated because no patientid

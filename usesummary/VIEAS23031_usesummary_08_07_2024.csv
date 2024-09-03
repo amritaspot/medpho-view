@@ -1,0 +1,38 @@
+17:45:09:Test for test1 was initiated
+17:45:14:Image captured
+17:45:14:TSH analysed
+17:45:15:[30.83136417  8.41380684 55.87062958]
+17:45:17:Test Value: 8.41 Control Value: 30.83 Raw Value: 0.27
+17:45:17:assay scanned. TL: 8.41 CL: 30.83 RV: 0.27
+17:45:17:Result added in database
+17:45:17:Patient data report was not generated because no patientid
+17:45:23:Test result was overwritten
+17:45:26:Image captured
+17:45:26:TSH analysed
+17:45:27:[64.82507687 36.76456235]
+17:45:28:Test Value: 36.76 Control Value: 64.83 Raw Value: 0.57
+17:45:28:assay scanned. TL: 36.76 CL: 64.83 RV: 0.57
+17:45:28:Result added in database
+17:45:28:Patient data report was not generated because no patientid
+17:45:35:Test result was overwritten
+17:45:39:Image captured
+17:45:39:TSH analysed
+17:45:39:[46.7194885  27.00262703]
+17:45:40:Test Value: 27.0 Control Value: 46.72 Raw Value: 0.58
+17:45:40:assay scanned. TL: 27.0 CL: 46.72 RV: 0.58
+17:45:40:Result added in database
+17:45:40:Patient data report was not generated because no patientid
+17:47:23:Test for 123 was initiated
+17:47:28:Image captured
+17:47:28:TSH analysed
+17:47:28:[45.88727801 26.87725849]
+17:47:30:Test Value: 26.88 Control Value: 45.89 Raw Value: 0.59
+17:47:30:assay scanned. TL: 26.88 CL: 45.89 RV: 0.59
+17:48:20:Test for 123 was initiated
+17:48:26:Image captured
+17:48:26:TSH analysed
+17:48:26:[45.92906563 26.3542698 ]
+17:48:28:Test Value: 26.35 Control Value: 45.93 Raw Value: 0.57
+17:48:28:assay scanned. TL: 26.35 CL: 45.93 RV: 0.57
+17:48:28:Result added in database
+17:48:28:Patient data report was not generated because no patientid
